@@ -1,0 +1,9 @@
+version: 1
+features:
+  issueTriage: false
+  issueClassifier: false
+  flakyTests: false
+  ciRepair: false
+  prSecurityReview: false
+  improvements: false
+  securityScan: off
